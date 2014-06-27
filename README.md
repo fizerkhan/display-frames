@@ -1,6 +1,7 @@
 ## Display frames
 
 This repo contains various display frames which you can use it to make your screenshots awesome.
+These are collected several sites(Thanks MockuPhone).
 
 Feel free to give a pull request for new display frames.
 
