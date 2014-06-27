@@ -1,7 +1,7 @@
 ## Display frames
 
 This repo contains various display frames which you can use it to make your screenshots awesome.
-These are collected several sites(Thanks MockuPhone).
+These are collected from several sites(Special Thanks to MockuPhone).
 
 Feel free to give a pull request for new display frames.
 
@@ -10,8 +10,8 @@ Feel free to give a pull request for new display frames.
 Following sites will help to place your screenshots in various display frames.
 
 * [FrameApp](http://www.appdemostore.com/frameapp)
-* [PlaceIt](https://placeit.net/)
 * [MockuPhone](http://mockuphone.com/)
+* [PlaceIt](https://placeit.net/)
 * [The Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html)
 * Send a email to **smartphones@mailchimp.com** with the subject **help** and attached mobile screenshots.
   In a couple of minutes, they will be send back the screenshot with the device frame.
